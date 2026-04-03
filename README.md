@@ -75,4 +75,8 @@ SQL-based analysis helps in identifying inefficiencies and improving logistics p
 ---<img width="1087" height="607" alt="image" src="https://github.com/user-attachments/assets/a28f8e4f-e90b-420e-b7db-fc7262fe3b7b" />
 
 
----
+---<img width="1016" height="842" alt="image" src="https://github.com/user-attachments/assets/e4c4ad86-1e12-498e-9f7d-b0dea5c4463c" />
+
+---<img width="1016" height="865" alt="image" src="https://github.com/user-attachments/assets/000d1ad3-1470-4d2d-9eab-37bb005724e5" />
+
+
